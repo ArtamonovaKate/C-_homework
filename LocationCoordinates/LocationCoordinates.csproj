@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\катя\Курс по C# EPAM\Домашки\2. NET.C#.01_Введение в .NET Framework 4 - копия\LocationCoordinates\LocationCoordinates\LocationCoordinates.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>
